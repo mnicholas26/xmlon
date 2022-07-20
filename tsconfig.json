@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "commonjs",
+        "removeComments": true,
+        "allowUnreachableCode": true,
+        "resolveJsonModule": true
+    },
+    "compileOnSave": false,
+    "exclude": ["./node_modules"]
+}
